@@ -8,7 +8,7 @@
   "server": {
     "ip": "Back2Back1-LGSd.aternos.me",
     "port": 25559,
-    "version": "26.1.2"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
